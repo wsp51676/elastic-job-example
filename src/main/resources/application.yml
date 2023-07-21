@@ -1,0 +1,5 @@
+server:
+  port: 8020
+regCenter:
+  serverList: localhost:2181
+  namespace: springboot_elasticjob_wsp
